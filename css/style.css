@@ -131,6 +131,7 @@ nav ul li a:visited{
   .nav_links{
     display: flex;
     flex-direction: row;
+    column-gap: 175px;
     justify-content: space-around;
   }
 
